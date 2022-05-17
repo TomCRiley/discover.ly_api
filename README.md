@@ -3,7 +3,7 @@
 # 🌎Discover.ly API🌎
 We deployed this website using Heroku ➡️[HERE](https://discoverly.netlify.app/)⬅️. The free servers on Heroku sleep when they are not in use, so please allow a few seconds for them to wake up! 😴
 
-You can find the frontend React.js and Bulma.io repo and FULL README ➡️[HERE](You can find the back end Python and Django repo ➡️[HERE](https://github.com/TomCRiley/GamrAPI)⬅️.)⬅️.
+You can find the frontend React.js and Bulma.io repo and FULL README ➡️[HERE](https://github.com/TomCRiley/Discover.ly_Client#readme)⬅️.
 
 ### Developers
 [Tom Riley](https://github.com/TomCRiley)
